@@ -1,0 +1,12 @@
+body {background: #ccbbaa;}
+    h1 {font-family:verdana;text-align:center;color:#336677;font-size:50px;}
+    h2 {margin-left: 20px;}
+    h3 {margin-left: 60px;}
+    p {margin-left:50px;margin-right: 50px;}
+    a {margin-left: 50px;}
+    iframe {margin-left: 50px;}
+    form {text-align:center; color:#ffffff;}
+    .login {background-color: #000000;
+            margin-left: 500px; 
+            margin-right: 500px;}
+
